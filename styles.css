@@ -259,7 +259,7 @@ body {
 .section-header p {
     font-size: 1.1rem;
     font-family: 'Lato', sans-serif;
-    color: #088395;
+    color: #2F4859;
     max-width: 600px;
     margin: 0 auto;
 }
@@ -421,7 +421,7 @@ body {
 .contact-info p {
     font-size: 1.1rem;
     font-family: 'Lato', sans-serif;
-    color: #088395;
+    color: #2F4859;
     margin-bottom: 2rem;
     line-height: 1.7;
 }
@@ -441,7 +441,7 @@ body {
 .contact-item i {
     width: 40px;
     height: 40px;
-    background: #2563eb;
+    background: #2F4859;
     color: white;
     border-radius: 50%;
     display: flex;
@@ -452,7 +452,7 @@ body {
 
 .contact-item span {
     font-weight: 500;
-    color: #1f2937;
+    color: #2F4859;
 }
 
 /* Contact Form */
