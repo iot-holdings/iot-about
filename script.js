@@ -84,7 +84,7 @@ Best regards,
 ${data.name}`;
 
     // Create mailto link
-    const mailtoLink = `mailto:joyce@airshift.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    const mailtoLink = `mailto:joyce@iotholding.technology?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     
     // Open user's default email client
     window.location.href = mailtoLink;
